@@ -1,3 +1,5 @@
 # AR_Web
-Trial for augmented reality in web browser.
-Just trying some stuff out.
+
+Trial for augmented reality in web browser
+just trying to work this bloody thing out.
+
